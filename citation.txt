@@ -1,0 +1,11 @@
+@inproceedings{REPO264,
+    author = "Fan, Ruchao and Chu, Wei and Chang, Peng and Xiao, Jing",
+    booktitle = "ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    doi = "10.1109/ICASSP39728.2021.9413429",
+    keywords = "Training;Conferences;Speech recognition;Signal processing;Parallel processing;Sampling methods;Acoustics;End-to-end speech recognition;NAT;Single step generation;CTC alignments",
+    number = "",
+    pages = "5889-5893",
+    title = "{CASS-NAT: CTC Alignment-Based Single Step Non-Autoregressive Transformer for Speech Recognition}",
+    volume = "",
+    year = "2021"
+}
