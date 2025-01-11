@@ -1,0 +1,8 @@
+nohup: ignoring input
+audio path: /data2/hxj/data/Aishell_1/wav
+text path: /data2/hxj/data/Aishell_1/transcript
+Preparing data/local/train transcriptions
+Preparing data/local/dev transcriptions
+Preparing data/local/test transcriptions
+local/aishell_data_prep.sh: AISHELL data preparation succeeded
+[Stage 1] Data Preparation Finished.

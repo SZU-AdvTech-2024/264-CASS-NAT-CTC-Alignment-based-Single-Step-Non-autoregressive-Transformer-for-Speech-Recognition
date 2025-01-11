@@ -1,0 +1,16 @@
+nohup: ignoring input
+Decoding test_clean...
+Terminated
+Terminated
+run.pl: 2 / 2 failed, log is in exp/cassnat_noam15k_initart_interctc05_ly6_interce01_ly6_a4000_ptlr4e-4_uptlr1e-3//esa_att_decode_attbm_1_sampdist_0_samplenum_50_lm0_threshold0.9_rankat_baseline/test_clean//log/decode.*.log
+Error: Unparsable utterance id after all we were awfully young (
+Decoding test_other...
+Decoding dev_clean...
+Terminated
+Terminated
+Terminated
+Terminated
+run.pl: 2 / 2 failed, log is in exp/cassnat_noam15k_initart_interctc05_ly6_interce01_ly6_a4000_ptlr4e-4_uptlr1e-3//esa_att_decode_attbm_1_sampdist_0_samplenum_50_lm0_threshold0.9_rankat_baseline/dev_other//log/decode.*.log
+Terminated
+Terminated
+run.pl: 2 / 2 failed, log is in exp/cassnat_noam15k_initart_interctc05_ly6_interce01_ly6_a4000_ptlr4e-4_uptlr1e-3//esa_att_decode_attbm_1_sampdist_0_samplenum_50_lm0_threshold0.9_rankat_baseline/dev_other//log/decode.*.log

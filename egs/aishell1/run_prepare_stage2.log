@@ -1,0 +1,5 @@
+nohup: ignoring input
+compute-cmvn-stats scp:data/train_all/feats.scp data/fbank/cmvn_t.ark 
+LOG (compute-cmvn-stats[5.5.1139~3-67548]:main():compute-cmvn-stats.cc:168) Wrote global CMVN stats to data/fbank/cmvn_t.ark
+LOG (compute-cmvn-stats[5.5.1139~3-67548]:main():compute-cmvn-stats.cc:171) Done accumulating CMVN stats for 360294 utterances; 0 had errors.
+[Stage 2] Feature Extraction Finished
